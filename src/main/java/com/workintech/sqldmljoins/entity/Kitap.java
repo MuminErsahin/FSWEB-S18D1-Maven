@@ -1,3 +1,4 @@
+
 package com.workintech.sqldmljoins.entity;
 
 import jakarta.persistence.*;
